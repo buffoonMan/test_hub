@@ -10,7 +10,7 @@ package test;
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("hi shit ");
+        System.out.println("hi shit wei shi");
         System.out.println(111);
     }
 }
